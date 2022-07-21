@@ -6,11 +6,11 @@ This is a backend framework for a virtual e-commerce website.  Products, tags an
 
 ## Usage
 
-The database should be created with MySQL command: <code>source schema.sql<code>
-The database should be seeded with terminal command: <code>npm run seed<code>
-The server should be started with terminal command: <code>npm start<code>
+The database should be created with MySQL command: <code>source schema.sql</code> <br>
+The database should be seeded with terminal command: <code>npm run seed</code> <br>
+The server should be started with terminal command: <code>npm start</code> <br>
 
-For developer start, use terminal command: <code>npm run watch<code>
+For developer start, use terminal command: <code>npm run watch</code> <br>
 
 Routes can be executed in insomnia
 
@@ -20,8 +20,8 @@ My GitHub: https://github.com/LimeRicky84
 
 Repository for this project: https://github.com/LimeRicky84/e-commerce-backdoor
 
-Walkthrough video:
+Walkthrough video: https://youtu.be/3RZteHnZI8A
 
 ## Screenshot
 
-![img](Assets\SharedScreenshot.jpg)
+![img](https://github.com/LimeRicky84/e-commerce-backdoor/blob/main/Assets/SharedScreenshot.jpg)
